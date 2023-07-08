@@ -145,8 +145,8 @@ text-transform: uppercase;
 }
 .hero-list-img img {
    margin: 0 auto;
-   width: 230px;
-   height: 228px;
+   width: 278px;
+height: 228px;
    
 }
 .hero-list-menu {
@@ -232,8 +232,8 @@ text-transform: uppercase;
       margin-bottom: 8px;
    }
    .hero-list-img img{
-      width: 389px;
-      height: 388px;
+      width: 466px;
+      height: 380px;
    }
    .hero-list-nav{
       width: 214px;
@@ -285,7 +285,18 @@ text-transform: uppercase;
       line-height: 1;
    }
    .hero-list-img img{
-      width: 422px;
-      height: 460px;
+      width: 515px;
+      height: 423px;
    }
+  /*.picture{
+   width: 515px;
+   height: 423px;
+  }
+  .picture1{
+   width: 341.032px;
+   height: 513px;
+   transform: rotate(-105deg);
+border-radius: 500px;
+background: #FFF;
+  }*/
 }
