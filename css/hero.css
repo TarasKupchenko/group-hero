@@ -157,12 +157,13 @@ height: 228px;
    width: 171px;
    flex-wrap: wrap;
    margin-left: auto;
+   justify-content: end;;
 }
 .hero-nav-item{
    padding: 8px 14px;
    border-radius: 1000px;
    border: 1px solid #FFF;
-   width: calc((100%-4px)/2);
+   /*width: calc((100%-4px)/2);*/
 }
 .hero-nav-item a{
    color: #FFF;
