@@ -1,0 +1,44 @@
+:root{
+   --main-background: #FFFFFF;
+   --color-logo: #4d5ae5;
+   --color-sublogo:  #2e2f42;
+   --color-adress: #434455;
+   --list-color: #2e2f42;
+   --sub-background: #2e2f42;
+   --subtittle-color: #2e2f42;
+   --footer-text: #FFFFFF;
+   --portfolio-btn: #F4F4FD;
+   --text-color: #434455;
+   --fill: #f4f4fd;
+   --client-link: #8e8f99; 
+   --hidden-color: #f4f4fd; 
+   --form-color: #8e8f99;
+   --check-color: #404bbf; 
+   --check-link: #4d5ae5;;
+}
+/*-----------------------------------------*/
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+li{
+   list-style: none;
+}
+*,*:before,*:after{
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+input,button,textarea{font-family:inherit;}
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+button::-moz-focus-inner {padding:0;border:0;}
+a, a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li{list-style: none;}
+img{
+   display: block;
+}
+/*-------------------------------------------*/
+
